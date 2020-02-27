@@ -1,0 +1,11 @@
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.exe
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.deps.json
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.runtimeconfig.json
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.runtimeconfig.dev.json
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.dll
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.pdb
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.vbprojAssemblyReference.cache
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.AssemblyInfoInputs.cache
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.AssemblyInfo.vb
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.dll
+D:\dev\vb\CustomEvent\CustomEvent\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.pdb
